@@ -4,8 +4,9 @@
 - Data processing for analysis
 - Data Analysis using pivot tables and charts
 
-  ##After analysis the following insights were generated:-
-   ####Sample Insights
+##After analysis the following insights were generated:-
+
+####Sample Insights
 
 -Women are more likely to buy compared to men (~65%)
 -Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
