@@ -1,5 +1,5 @@
 # Excel-Data-analysis
-### In the following data following steps were done
+### In this data following steps were done:-
 
 - Data Cleaninig
 - Data processing for analysis
